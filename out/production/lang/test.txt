@@ -1,3 +1,0 @@
-def can = canvas:(500, 200);
-def pt = figure:('triangle');
-can.add_pattern:(pt);
